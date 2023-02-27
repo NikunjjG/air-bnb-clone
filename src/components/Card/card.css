@@ -1,6 +1,7 @@
 .card{
     padding: 10px;
     line-height: 0.5;
+    position: relative;
 }
 .star{
     width: 20px;
@@ -18,4 +19,13 @@
 .cardImg{
     width: 17%;
     border-radius: 10px;
+}
+.soldOut{
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    background-color: white;
+    padding: 5px 7px;
+    border-radius: 2px;
+    font-weight: bold;
 }

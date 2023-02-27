@@ -1,0 +1,7 @@
+.cardSpace{
+    display: flex;
+    align-items: center;
+}
+.card>img{
+    width: 200px;
+}
