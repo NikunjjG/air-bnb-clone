@@ -1,0 +1,24 @@
+.hero{
+    padding-top: 70px;
+    padding-bottom: 70px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.gridContent{
+    padding-bottom: 25px;
+    width: 50%;
+    /* margin: auto; */
+    align-self: center;
+}
+.hero>h1{
+    padding-left: 35px;
+    font-size: 35px;
+    font-family: 'Poppins', sans-serif;
+}
+.hero>h3{
+    padding-left: 35px;
+    font-size: 20px;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 100;
+}
